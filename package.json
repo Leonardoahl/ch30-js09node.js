@@ -1,0 +1,27 @@
+{
+  "name": "js09-nodejs",
+  "version": "1.0.1",
+  "description": "Uso de node y Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardoahl/ch30-js09node.js.git"
+  },
+  "keywords": [
+    "axios",
+    "bootstrap",
+    "generation"
+  ],
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardoahl/ch30-js09node.js/issues"
+  },
+  "homepage": "https://github.com/Leonardoahl/ch30-js09node.js#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
